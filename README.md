@@ -3,4 +3,4 @@
 * Use multi-threading concept to get and receive data parallelly from both the Server Sides. Observe the challenges that you face to achieve this using UDP.
 
 # Detailed Explanation
-[Link]()
+[Link](https://rootritesh.medium.com/building-chat-application-using-socket-programming-in-python-3b4dfeea6426)
